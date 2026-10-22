@@ -1,0 +1,8 @@
+{
+  "name": "Remix Jarvis Mobile",
+  "description": "A portable Android version of OpenJarvis featuring local inference and secure, user-managed API key configurations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
